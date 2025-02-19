@@ -7,7 +7,7 @@ authors = [
 ]
 license = {text = "Apache 2.0"}
 readme = "README.md"
-requires-python = ">=3.12, <3.13"
+requires-python = ">=3.12"
 dependencies = [
     "backports-tarfile (==1.2.0)",
     "branca (==0.8.0)",
